@@ -6,12 +6,12 @@
 
 ## 🚀 التحميلات
 
-> 🔖 النسخة الحالية: **v1.0.8**
+> 🔖 النسخة الحالية: **v1.0.9**
 
 | النظام | المعمارية | اسم الملف | التحميل |
 |--------|------------|-----------|---------|
-| 🪟 ويندوز | 32-بت / 64-بت | `dfatre-win.exe` | [اضغط للتحميل](https://github.com/MNaguib2/Dfatre/releases/download/1.0.8/DFATRE-Setup-1.0.8.exe) |
-| 🐧 لينكس | 64-بت | `dfatre-linux-x64.AppImage` | [اضغط للتحميل](https://github.com/MNaguib2/Dfatre/releases/download/1.0.8/dfatre_1.0.8_amd64.deb) |
+| 🪟 ويندوز | 32-بت / 64-بت | `dfatre-win.exe` | [اضغط للتحميل](https://github.com/MNaguib2/Dfatre/releases/download/1.0.9/DFATRE-Setup-1.0.9.exe) |
+| 🐧 لينكس | 64-بت | `dfatre-linux-x64.AppImage` | [اضغط للتحميل](https://github.com/MNaguib2/Dfatre/releases/download/1.0.9/dfatre_1.0.9_amd64.deb) |
 
 > 💡 لمستخدمي لينكس: اجعل الملف قابلاً للتنفيذ بالأمر التالي:
 ```bash
